@@ -1,0 +1,19 @@
+name: 💡 Feature request / Özellik önerisi
+description: Suggest a new feature in English or Turkish / Yeni özellik önerisi İngilizce veya Türkçe
+title: "[FEATURE] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Feature idea / Önerilen özellik
+      description: Explain what and why / Ne eklemek istediğinizi ve nedenini açıklayın
+      placeholder: "It would be great to allow input in hours / Saat cinsinden giriş yapabilmek harika olurdu..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional details / Ek açıklama
+      description: Add extra info or screenshots / Ek bilgi veya görseller ekleyin
