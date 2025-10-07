@@ -1,0 +1,32 @@
+name: 🐞 Bug report / Hata bildirimi
+description: Report a bug in English or Turkish / Hata İngilizce veya Türkçe bildirilebilir
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: input
+    id: what-happened
+    attributes:
+      label: What happened? / Ne oldu?
+      description: Describe the problem. / Problemi açıklayın.
+      placeholder: "The program crashed when I clicked X / Program X'e tıkladığımda çöktü..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Hatanın tekrar edilme adımları
+      description: Step by step instructions / Adım adım talimatlar
+      placeholder: |
+        1. Open the program / Programı aç
+        2. Enter X / X değerini gir
+        3. Observe the error / Hata mesajını gözlemle
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or error message / Hata mesajı veya konsol çıktısı
+      description: Paste console output if available / Konsol çıktısını yapıştırın (varsa)
+      render: shell
