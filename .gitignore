@@ -1,0 +1,33 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Build directories ===
+/bin/
+/build/
+/out/
+/target/
+
+# === IDE files ===
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs and temporary files ===
+*.log
+*.tmp
+
