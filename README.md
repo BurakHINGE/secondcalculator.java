@@ -5,15 +5,13 @@
 
 ---
 
-📌 ## Versiyon Bilgisi | Version Info
-
+## 📌 Versiyon Bilgisi | Version Info
 Geçerli Sürüm: **1.0.0**
-
 Current Version: **1.0.0**
 
 ---
 
-🌐 ## Diller / Languages
+## 🌐 Diller / Languages
 | Dil/Language | Dosya Adı/Filename | Açıklama/Description |
 |-----------|-----|-------|
 | Türkçe | second_calculate.java | Saniyeyi dakikaya çevir |
@@ -57,13 +55,13 @@ git clone https://github.com/BurakHINGE/secondcalculator.git
 
 ---
 
-📌 ## Sürüm Geçmişi / Version History
+## 📌 Sürüm Geçmişi / Version History
 
 ### v1.0.0 (2025-10-03)  
 - Saniyeyi dakikaya çeviren kod oluşturuldu. /  The code that converts seconds to minutes has been created.
 
 ---
 
-📄 ## Lisans / License
+## 📄 Lisans / License
 Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
