@@ -7,6 +7,7 @@
 
 ## 📌 Versiyon Bilgisi | Version Info
 Geçerli Sürüm: **1.0.0**
+
 Current Version: **1.0.0**
 
 ---
