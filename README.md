@@ -15,8 +15,8 @@ Current Version: **1.1.0**
 ## 🌐 Diller / Languages
 | Dil/Language | Dosya Adı/Filename | Açıklama/Description |
 |-----------|-----|-------|
-| Türkçe | tr_second_calculate.java | Saniyeyi dakikaya çevir |
-| English | eng_second_calculate.java | Convert seconds to minute |
+| Türkçe | [tr_second_calculate.java](tr_second_calculate.java) | Saniyeyi dakikaya çevir |
+| English | [eng_second_calculate.java](eng_second_calculate.java) | Convert seconds to minute |
 
 ---
 
