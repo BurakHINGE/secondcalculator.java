@@ -20,25 +20,8 @@ Current Version: **1.1.0**
 
 ---
 
-## Türkçe 
----
+## English
 
-## Hakkında
-Java ile yazılmış basit bir saniye hesaplama uygulamasıdır. Kullanıcıdan saniye cinsinden bir değer alır, dakika ve saniye cinsine çevirir.
-
-### Gereksinimler
-- Java JDK 11 veya üzeri
-- Bir Java IDE (IntelliJ, Eclipse veya VS Code)
-- Temel Java bilgisi
-
-### Kurulum  
-```bash
-git clone https://github.com/BurakHINGE/tr_second_calculator.git
-```
-
----
-
-English
 ---
 
 ## About
@@ -56,6 +39,25 @@ git clone https://github.com/BurakHINGE/eng_second_calculator.git
 
 ---
 
+## Türkçe 
+
+---
+
+## Hakkında
+Java ile yazılmış basit bir saniye hesaplama uygulamasıdır. Kullanıcıdan saniye cinsinden bir değer alır, dakika ve saniye cinsine çevirir.
+
+### Gereksinimler
+- Java JDK 11 veya üzeri
+- Bir Java IDE (IntelliJ, Eclipse veya VS Code)
+- Temel Java bilgisi
+
+### Kurulum  
+```bash
+git clone https://github.com/BurakHINGE/tr_second_calculator.
+```
+
+---
+
 ## 📌 Sürüm Geçmişi / Version History
 
 ### v1.1.0 (2025-10-20)
@@ -69,3 +71,4 @@ git clone https://github.com/BurakHINGE/eng_second_calculator.git
 ## 📄 Lisans / License
 Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
