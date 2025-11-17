@@ -1,22 +1,22 @@
-# Java Saniye Hesaplama ⏱️
+# Calculate Second with Java / Java Saniye Hesaplama ⏱️
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
 
-## 📌 Versiyon Bilgisi | Version Info
-Geçerli Sürüm: **1.1.0**
-
+## 📌 Version Info | Versiyon Bilgisi 
 Current Version: **1.1.0**
+
+Geçerli Sürüm: **1.1.0**
 
 ---
 
-## 🌐 Diller / Languages
-| Dil/Language | Dosya Adı/Filename | Açıklama/Description |
+## 🌐 Languages / Diller
+| Language/Dil | Filename/Dosya Adı | Description/Açıklama |
 |-----------|-----|-------|
-| Türkçe | [tr_second_calculate.java](tr_second_calculate.java) | Saniyeyi dakikaya çevir |
 | English | [eng_second_calculate.java](eng_second_calculate.java) | Convert seconds to minute |
+| Türkçe | [tr_second_calculate.java](tr_second_calculate.java) | Saniyeyi dakikaya çevir |
 
 ---
 
@@ -58,17 +58,16 @@ git clone https://github.com/BurakHINGE/tr_second_calculator.
 
 ---
 
-## 📌 Sürüm Geçmişi / Version History
+## 📌 Version History / Sürüm Geçmişi
 
 ### v1.1.0 (2025-10-20)
-- Koda İngilizce dili eklendi. / English has been added to code.
+- English has been added to code. / Koda İngilizce dili eklendi.
 
 ### v1.0.0 (2025-10-03)  
-- Saniyeyi dakikaya çeviren kod oluşturuldu. /  The code that converts seconds to minutes has been created.
+- The code that converts seconds to minutes has been created. / Saniyeyi dakikaya çeviren kod oluşturuldu.
 
 ---
 
-## 📄 Lisans / License
-Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
+## 📄 License / Lisans 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
