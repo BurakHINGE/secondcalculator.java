@@ -7,10 +7,15 @@ public class SaniyeHesaplama {
         System.out.print("Saniye değeri giriniz: ");
         int girilenSaniye = input.nextInt();
     
-        int dakika = girilenSaniye / 60;
-        int kalanSaniye = girilenSaniye % 60;
+        int saat = girilenSaniye / 3600;
+        int saattenKalanSaniye = girilenSaniye % 3600;
+        int dakika = saattenKalanSaniye / 60;
+        int dakikadanKalanSaniye = saattenKalanSaniye % 60;
+        int kalanSaniye = dakikadanKalanSaniye;
+        
+        
 
-        System.out.println(girilenSaniye + " saniye " + dakika + " dakika " + kalanSaniye + " saniye ediyor.");
+        System.out.println(girilenSaniye + " saniye " + saat + " saat " + dakika + " dakika " + kalanSaniye + " saniye ediyor.");
 
 
 
