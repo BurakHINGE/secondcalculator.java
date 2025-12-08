@@ -6,9 +6,9 @@
 ---
 
 ## 📌 Version Info | Versiyon Bilgisi 
-Current Version: **1.1.0**
+Current Version: **1.2.0**
 
-Geçerli Sürüm: **1.1.0**
+Geçerli Sürüm: **1.2.0**
 
 ---
 
@@ -59,6 +59,9 @@ git clone https://github.com/BurakHINGE/tr_second_calculator.
 ---
 
 ## 📌 Version History / Sürüm Geçmişi
+
+### v1.2.0 (2025-12-08)
+- Calculating hour has been added to code. / Koda saat hesaplama eklendi.
 
 ### v1.1.0 (2025-10-20)
 - English has been added to code. / Koda İngilizce dili eklendi.
