@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SaniyeHesaplama {
+public class tr_SecondsCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
