@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SecondsCalculator {
+public class eng_SecondsCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
